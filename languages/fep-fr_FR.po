@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Frontend Edit Profile\n"
 "POT-Creation-Date: 2014-07-13 08:52+0700\n"
-"PO-Revision-Date: 2016-03-23 20:26+0000\n"
+"PO-Revision-Date: 2016-03-23 20:36+0000\n"
 "Last-Translator: \n"
 "Language-Team: @loupio <loupio2001@gmail.com>\n"
 "Language: fr\n"
@@ -34,7 +34,7 @@ msgstr "Titre:"
 
 #: ../widget.php:30
 msgid "Show Register Link"
-msgstr "Afficher le lien de connexion"
+msgstr "Afficher le lien d'enregistrement"
 
 #: ../widget.php:35
 msgid "Hide widget when user logged in"
@@ -50,7 +50,7 @@ msgstr "Nom d'utilisateur"
 
 #: ../_form.php:27
 msgid "Usernames cannot be changed."
-msgstr "Le nom d'utilisateur ne peut être changer."
+msgstr "Le nom d'utilisateur ne peut être changé."
 
 #: ../_form.php:30
 msgid "First Name"
@@ -70,7 +70,7 @@ msgstr "(requis)"
 
 #: ../_form.php:45
 msgid "Display to Public as"
-msgstr "Afficher au publique comme"
+msgstr "Afficher en publique comme"
 
 #: ../_form.php:75
 msgid "Contact Info"
@@ -106,7 +106,7 @@ msgid ""
 "Share a little biographical information to fill out your profile. This may "
 "be shown publicly."
 msgstr ""
-"Partagez une peitite biographie afin de compléter votre profil. Elle peut "
+"Partagez une petite biographie afin de compléter votre profil. Elle peut "
 "être afficher en publique."
 
 #: ../_form.php:141
@@ -223,7 +223,7 @@ msgstr "URL de deconnection"
 
 #: ../admin_form.php:48
 msgid "Lost Password URL"
-msgstr "URL de mot de passe oublier"
+msgstr "URL de mot de passe oublié"
 
 #: ../admin_form.php:52
 msgid "Register URL"
@@ -235,7 +235,7 @@ msgstr "Désactiver les méthodes de contact"
 
 #: ../admin_form.php:58
 msgid "Click to disable contact methods in profile page"
-msgstr "Cliquez pour modifier les méthodes de contact dans la page du profil"
+msgstr "Cliquez pour désactiver les méthodes de contact dans la page du profil"
 
 #: ../admin_form.php:79
 msgid "Save Changes"
