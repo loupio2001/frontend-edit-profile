@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frontend Edit Profile\n"
+"POT-Creation-Date: 2014-07-13 08:52+0700\n"
+"PO-Revision-Date: 2016-03-23 20:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: @loupio <loupio2001@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../loggedin_form.php:2
+msgid "Your Profile"
+msgstr "TON PROFIL"
+
+#: ../loggedin_form.php:3
+msgid "Logout"
+msgstr "Se déconnecter"
+
+#: ../widget.php:6
+msgid "Display login widget on sidebar "
+msgstr "Afficher le widget de connexion sur la sidebar"
+
+#: ../widget.php:24
+msgid "Title:"
+msgstr "Titre:"
+
+#: ../widget.php:30
+msgid "Show Register Link"
+msgstr "Afficher le lien de connexion"
+
+#: ../widget.php:35
+msgid "Hide widget when user logged in"
+msgstr "Cacher le widget quand l'utilisateur et connecté"
+
+#: ../_form.php:22
+msgid "Name"
+msgstr "Nom"
+
+#: ../_form.php:26 ../login_form.php:4
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: ../_form.php:27
+msgid "Usernames cannot be changed."
+msgstr "Le nom d'utilisateur ne peut être changer."
+
+#: ../_form.php:30
+msgid "First Name"
+msgstr "Nom"
+
+#: ../_form.php:35
+msgid "Last Name"
+msgstr "Prénom"
+
+#: ../_form.php:40
+msgid "Nickname"
+msgstr "Pseudo"
+
+#: ../_form.php:40 ../_form.php:79
+msgid "(required)"
+msgstr "(requis)"
+
+#: ../_form.php:45
+msgid "Display to Public as"
+msgstr "Afficher au publique comme"
+
+#: ../_form.php:75
+msgid "Contact Info"
+msgstr "Infos de contact"
+
+#: ../_form.php:79
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../_form.php:85
+#, php-format
+msgid ""
+"There is a pending change of your e-mail to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+"Un changement est en attente pour votre e-mail à <code>%1$s</code>. <a href="
+"\"%2$s\">Annuler</a>"
+
+#: ../_form.php:92
+msgid "Website"
+msgstr "Site Web"
+
+#: ../_form.php:118
+msgid "About Yourself"
+msgstr "A propos de vous"
+
+#: ../_form.php:128
+msgid "Biographical Info"
+msgstr "Biographie"
+
+#: ../_form.php:130
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+"Partagez une peitite biographie afin de compléter votre profil. Elle peut "
+"être afficher en publique."
+
+#: ../_form.php:141
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+#: ../_form.php:141
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Si vous voulez changer de mot de passe, saisissez-en un nouveau. Sinon, "
+"laisser le champ vide."
+
+#: ../_form.php:144
+msgid "Type your new password again."
+msgstr "Saisissez à nouveau votre mot de passe."
+
+#: ../_form.php:148
+msgid "Strength indicator"
+msgstr "Indicateur de Sécurité"
+
+#: ../_form.php:158
+msgid "The password should be at least seven characters long."
+msgstr "Le mot de passe doit contenir sept caractères au minimum."
+
+#: ../_form.php:159
+msgid ""
+"To make it stronger, use upper and lower case letters, numbers and symbols "
+"like ! \" ? $ % ^ &amp; )."
+msgstr ""
+"Pour renforcer votre mot de passe, utilisez des majuscules, minuscules, "
+"chiffres et des symboles comme  ! \" ? $ % ^ &amp; )."
+
+#: ../_form.php:178
+msgid "Additional Capabilities"
+msgstr "Rôles additionnels"
+
+#: ../_form.php:197
+msgid "Update Profile"
+msgstr "Mettre à jour le profil"
+
+#: ../fep.php:121
+msgid "Skype"
+msgstr "Skype"
+
+#: ../fep.php:122
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../fep.php:123
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: ../fep.php:124
+msgid "AIM"
+msgstr "AIM"
+
+#: ../fep.php:296
+msgid "<strong>Success</strong>: Profile updated"
+msgstr "<strong>Succès</strong>: Profil mis à jour"
+
+#: ../fep.php:358
+msgid "<strong>ERROR</strong>: Empty username"
+msgstr "<strong>ERREUR</strong>: Pseudo est vide"
+
+#: ../fep.php:363
+msgid "<strong>ERROR</strong>: Empty password"
+msgstr "<strong>ERREUR</strong>: Mot de passe est vide"
+
+#: ../fep.php:373
+msgid "<strong>ERROR</strong>: Invalid username"
+msgstr "<strong>ERREUR</strong>: Nom d'utilisateur invalide"
+
+#: ../fep.php:376
+msgid "<strong>ERROR</strong>: Incorrect password"
+msgstr "<strong>ERREUR</strong>: Mot de passe incorrecte"
+
+#: ../admin_form.php:4
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: ../admin_form.php:9
+msgid "Show Biographical Info"
+msgstr "Afficher la biographie"
+
+#: ../admin_form.php:13
+msgid "Show Password Indicator"
+msgstr "Afficher l'indicateur de mot de passe"
+
+#: ../admin_form.php:17
+msgid "Show Password Hint"
+msgstr "Afficher le pense bête du mot de passe"
+
+#: ../admin_form.php:21
+msgid "Custom Password Hint"
+msgstr "Personnaliser le pense bête du mot de passe"
+
+#: ../admin_form.php:32
+msgid "Show Login Form"
+msgstr "Afficher le formulaire de connexion"
+
+#: ../admin_form.php:36
+msgid "Not Logged in Text"
+msgstr "Texte non connecté"
+
+#: ../admin_form.php:40
+msgid "Login URL"
+msgstr "URL de connexion"
+
+#: ../admin_form.php:44
+msgid "Logout URL"
+msgstr "URL de deconnection"
+
+#: ../admin_form.php:48
+msgid "Lost Password URL"
+msgstr "URL de mot de passe oublier"
+
+#: ../admin_form.php:52
+msgid "Register URL"
+msgstr "URL d'enregistrement"
+
+#: ../admin_form.php:57
+msgid "Disable Contact Methods"
+msgstr "Désactiver les méthodes de contact"
+
+#: ../admin_form.php:58
+msgid "Click to disable contact methods in profile page"
+msgstr "Cliquez pour modifier les méthodes de contact dans la page du profil"
+
+#: ../admin_form.php:79
+msgid "Save Changes"
+msgstr "Sauvegarder les changements"
+
+#: ../login_form.php:6
+msgid "Password"
+msgstr "Mot de passe"
+
+#: ../login_form.php:8
+msgid "Remember me"
+msgstr "Se rappeler de moi"
+
+#: ../login_form.php:11
+msgid "Logged me in"
+msgstr "Me connecter"
+
+#: ../login_form.php:14
+msgid "Don't have account? Register."
+msgstr "Vous n'avez pas de compte? S'enregistrer"
