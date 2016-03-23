@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Frontend Edit Profile\n"
 "POT-Creation-Date: 2014-07-13 08:52+0700\n"
-"PO-Revision-Date: 2016-03-23 20:36+0000\n"
+"PO-Revision-Date: 2016-03-23 20:43+0000\n"
 "Last-Translator: \n"
 "Language-Team: @loupio <loupio2001@gmail.com>\n"
 "Language: fr\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../loggedin_form.php:2
 msgid "Your Profile"
-msgstr "TON PROFIL"
+msgstr "Votre profil"
 
 #: ../loggedin_form.php:3
 msgid "Logout"
@@ -70,7 +70,7 @@ msgstr "(requis)"
 
 #: ../_form.php:45
 msgid "Display to Public as"
-msgstr "Afficher en publique comme"
+msgstr "Afficher au publique comme"
 
 #: ../_form.php:75
 msgid "Contact Info"
@@ -118,8 +118,8 @@ msgid ""
 "If you would like to change the password type a new one. Otherwise leave "
 "this blank."
 msgstr ""
-"Si vous voulez changer de mot de passe, saisissez-en un nouveau. Sinon, "
-"laisser le champ vide."
+"Si vous souhaitez changer votre mot de passe, saisissez-en un nouveau. "
+"Sinon, laisser le champ vide."
 
 #: ../_form.php:144
 msgid "Type your new password again."
@@ -127,7 +127,7 @@ msgstr "Saisissez à nouveau votre mot de passe."
 
 #: ../_form.php:148
 msgid "Strength indicator"
-msgstr "Indicateur de Sécurité"
+msgstr "Indicateur de force"
 
 #: ../_form.php:158
 msgid "The password should be at least seven characters long."
@@ -211,7 +211,7 @@ msgstr "Afficher le formulaire de connexion"
 
 #: ../admin_form.php:36
 msgid "Not Logged in Text"
-msgstr "Texte non connecté"
+msgstr "Texte si non connecté"
 
 #: ../admin_form.php:40
 msgid "Login URL"
